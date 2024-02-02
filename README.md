@@ -1,6 +1,6 @@
 # Infinite Craft Pair Finder
 
-This project is a Node.js script that finds all possible pairs in the game Infinite Craft. It uses the game's API to find pairs and writes the results to a JSON file.
+This project is a Node.js script that finds all possible pairs in the game [Infinite Craft](https://neal.fun/infinite-craft/). It uses the game's API to find pairs and writes the results to a JSON file.
 
 ## Installation
 
